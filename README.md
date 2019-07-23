@@ -1,3 +1,17 @@
+---
+title: Intro to Git
+layout: post
+weight: 10
+hidden: true
+---
+
+**Course**: Data Science <br/>
+**Mod**: 1 <br/>
+**Topic**: Intro to Git and Git Fundamentals <br/>
+**Amount of time**: 1 hour <br/>
+**Author**: Alan Hong
+
+Ported from the ds-lesson-starters repository [here](https://github.com/learn-co-curriculum/ds-lessons-starter/blob/master/lesson-plans-by-mod/Module-1/git_101_git_solo/git_101.md). 
 
 # Teacher Notes
 
